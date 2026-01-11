@@ -1,7 +1,7 @@
 Description du Projet :
 Ce projet explore la sécurité des systèmes de détection de logiciels malveillants basés sur l'Intelligence Artificielle. Nous avons mis en œuvre une attaque adversariale (Bruit Gaussien) pour tester la robustesse d'un classifieur Random Forest entraîné sur le dataset EMBER.
 
- Organisation du Dépôt 
+Organisation du Dépôt: 
 Le répertoire est structuré de façon à séparer les ressources techniques de la documentation :
 
  Code IA4CS/ : Contient les scripts de développement :
